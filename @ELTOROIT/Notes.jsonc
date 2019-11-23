@@ -1,6 +1,6 @@
 // https://www.npmjs.com/package/systeminformation
 // FROM: https://dev.to/mskian/get-your-linux-or-windows-system-information-1m3e
-// Execute: node .\system.js
+// Execute: node .\system.js (npm start)
 
 [
   {
