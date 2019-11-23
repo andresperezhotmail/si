@@ -1,0 +1,31 @@
+// https://www.npmjs.com/package/systeminformation
+// FROM: https://dev.to/mskian/get-your-linux-or-windows-system-information-1m3e
+// Execute: node .\system.js
+
+[
+  {
+    "manufacturer": "Hewlett-Packard",
+    "model": "HP ProBook 650 G1",
+    "version": "A3009DD10303",
+    "serial": "5CG5336LDV",
+    "uuid": "32FFD77F-4315-11E5-BC05-78B17C0180FF",
+    "sku": "P2Z82US#ABA"
+  },
+  {
+    "manufacturer": "Hewlett-Packard",
+    "model": "HP ProBook 650 G1",
+    "version": "A3009DD10303",
+    "serial": "5CG5336SJC",
+    "uuid": "B254D17F-433C-11E5-8202-BC58BE0000FF",
+    "sku": "P2Z82US#ABA"
+  },
+
+  {
+    "manufacturer": "Apple Inc.",
+    "model": "MacBookAir7,2",
+    "version": "1.0",
+    "serial": "C1MW1077J1WV",
+    "uuid": "5DE781CA-8E9F-5310-92A7-CCAD7683D0F1",
+    "sku": "Mac-937CB26E2E02BB01"
+  }
+]
