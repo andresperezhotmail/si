@@ -3,6 +3,7 @@
 // Execute: node .\system.js (npm start)
 
 [
+  // Smart Source PC #1
   {
     "manufacturer": "Hewlett-Packard",
     "model": "HP ProBook 650 G1",
@@ -11,6 +12,8 @@
     "uuid": "32FFD77F-4315-11E5-BC05-78B17C0180FF",
     "sku": "P2Z82US#ABA"
   },
+
+  // Smart Source PC #2
   {
     "manufacturer": "Hewlett-Packard",
     "model": "HP ProBook 650 G1",
@@ -20,6 +23,7 @@
     "sku": "P2Z82US#ABA"
   },
 
+  // My mac
   {
     "manufacturer": "Apple Inc.",
     "model": "MacBookAir7,2",
@@ -27,5 +31,15 @@
     "serial": "C1MW1077J1WV",
     "uuid": "5DE781CA-8E9F-5310-92A7-CCAD7683D0F1",
     "sku": "Mac-937CB26E2E02BB01"
+  },
+
+  // Exit certified PC
+  {
+    "manufacturer": "Hewlett-Packard",
+    "model": "HP ProDesk 600 G1 TWR",
+    "version": "",
+    "serial": "MXL34306JK",
+    "uuid": "BA6CD700-32A3-11E3-8468-7446A0B9118E",
+    "sku": "F3L35US#ABA"
   }
 ]
